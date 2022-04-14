@@ -1,0 +1,10 @@
+## Interface: 20504
+## Title: LogTracker_CharacterData_CN
+## Version: 1.0.0
+## Author: Mylaerla-Everlook
+## Notes: Data for characters
+## DefaultState: enabled
+## Dependencies: LogTracker
+## LoadOnDemand: 1
+
+LogTracker_CharacterData_CN.lua
