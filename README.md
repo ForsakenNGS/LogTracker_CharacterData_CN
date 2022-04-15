@@ -1,3 +1,3 @@
 # LogTracker_CharacterData_CN (TBC Classic) by Mylaerla-Everlook
 
-Data for characters
+Contains the character data for the LogTracker-Addon. (China-Servers)
