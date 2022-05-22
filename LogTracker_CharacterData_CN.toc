@@ -1,4 +1,6 @@
-## Interface: 20504
+## Interface: 90200
+## Interface-Classic: 11402
+## Interface-BCC: 20504
 ## Title: LogTracker_CharacterData_CN
 ## Version: 1.0.0
 ## Author: Mylaerla-Everlook
