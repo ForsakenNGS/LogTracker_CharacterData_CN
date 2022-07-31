@@ -20,6 +20,7 @@ LogTracker_CharacterData_CN_5043.lua
 LogTracker_CharacterData_CN_5044.lua
 LogTracker_CharacterData_CN_5045.lua
 LogTracker_CharacterData_CN_5046.lua
+LogTracker_CharacterData_CN_5047.lua
 LogTracker_CharacterData_CN_5048.lua
 LogTracker_CharacterData_CN_5049.lua
 LogTracker_CharacterData_CN_5083.lua
