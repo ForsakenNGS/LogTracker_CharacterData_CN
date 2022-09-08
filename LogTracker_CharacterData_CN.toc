@@ -86,3 +86,4 @@ LogTracker_CharacterData_CN_5170.lua
 LogTracker_CharacterData_CN_5173.lua
 LogTracker_CharacterData_CN_5174.lua
 LogTracker_CharacterData_CN_5177.lua
+LogTracker_CharacterData_CN_5188.lua
