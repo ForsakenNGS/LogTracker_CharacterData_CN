@@ -3,7 +3,7 @@
 ## Interface-BCC: 20504
 ## Interface-Wrath: 30400
 ## Title: LogTracker_CharacterData_CN
-## Version: 1.0.3
+## Version: 1.0.4
 ## Author: Mylaerla-Everlook
 ## Notes: Data for characters
 ## X-Curse-Project-ID: 612015
