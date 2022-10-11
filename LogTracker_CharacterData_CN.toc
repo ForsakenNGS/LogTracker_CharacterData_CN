@@ -3,7 +3,7 @@
 ## Interface-BCC: 20504
 ## Interface-Wrath: 30400
 ## Title: LogTracker_CharacterData_CN
-## Version: 1.0.4
+## Version: 1.0.3
 ## Author: Mylaerla-Everlook
 ## Notes: Data for characters
 ## X-Curse-Project-ID: 612015
@@ -21,7 +21,6 @@ LogTracker_CharacterData_CN_5043.lua
 LogTracker_CharacterData_CN_5044.lua
 LogTracker_CharacterData_CN_5045.lua
 LogTracker_CharacterData_CN_5046.lua
-LogTracker_CharacterData_CN_5047.lua
 LogTracker_CharacterData_CN_5048.lua
 LogTracker_CharacterData_CN_5049.lua
 LogTracker_CharacterData_CN_5083.lua
@@ -44,7 +43,6 @@ LogTracker_CharacterData_CN_5118.lua
 LogTracker_CharacterData_CN_5119.lua
 LogTracker_CharacterData_CN_5120.lua
 LogTracker_CharacterData_CN_5122.lua
-LogTracker_CharacterData_CN_5123.lua
 LogTracker_CharacterData_CN_5124.lua
 LogTracker_CharacterData_CN_5126.lua
 LogTracker_CharacterData_CN_5127.lua
@@ -75,7 +73,6 @@ LogTracker_CharacterData_CN_5153.lua
 LogTracker_CharacterData_CN_5154.lua
 LogTracker_CharacterData_CN_5155.lua
 LogTracker_CharacterData_CN_5157.lua
-LogTracker_CharacterData_CN_5158.lua
 LogTracker_CharacterData_CN_5159.lua
 LogTracker_CharacterData_CN_5160.lua
 LogTracker_CharacterData_CN_5162.lua
@@ -84,8 +81,6 @@ LogTracker_CharacterData_CN_5165.lua
 LogTracker_CharacterData_CN_5169.lua
 LogTracker_CharacterData_CN_5170.lua
 LogTracker_CharacterData_CN_5173.lua
-LogTracker_CharacterData_CN_5174.lua
-LogTracker_CharacterData_CN_5177.lua
 LogTracker_CharacterData_CN_5188.lua
 LogTracker_CharacterData_CN_5189.lua
 LogTracker_CharacterData_CN_5190.lua
