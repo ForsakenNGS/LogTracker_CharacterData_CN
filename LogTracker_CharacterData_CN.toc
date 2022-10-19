@@ -43,6 +43,7 @@ LogTracker_CharacterData_CN_5118.lua
 LogTracker_CharacterData_CN_5119.lua
 LogTracker_CharacterData_CN_5120.lua
 LogTracker_CharacterData_CN_5122.lua
+LogTracker_CharacterData_CN_5123.lua
 LogTracker_CharacterData_CN_5124.lua
 LogTracker_CharacterData_CN_5126.lua
 LogTracker_CharacterData_CN_5127.lua
@@ -73,6 +74,7 @@ LogTracker_CharacterData_CN_5153.lua
 LogTracker_CharacterData_CN_5154.lua
 LogTracker_CharacterData_CN_5155.lua
 LogTracker_CharacterData_CN_5157.lua
+LogTracker_CharacterData_CN_5158.lua
 LogTracker_CharacterData_CN_5159.lua
 LogTracker_CharacterData_CN_5160.lua
 LogTracker_CharacterData_CN_5162.lua
